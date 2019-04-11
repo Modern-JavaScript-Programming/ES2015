@@ -1,2 +1,2 @@
 # ES2015
-ECMAScript 2015 Features
+ECMAScript 2015 Starter Kit
