@@ -1,5 +1,5 @@
 * text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS
+*.js linguist-language=JavaScript
 CHANGELOG.md export-ignore
