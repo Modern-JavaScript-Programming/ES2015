@@ -2,4 +2,5 @@
 *.css linguist-language=CSS
 *.scss linguist-language=SCSS
 *.js linguist-language=JavaScript
+*.php linguist-detectable=false
 CHANGELOG.md export-ignore
